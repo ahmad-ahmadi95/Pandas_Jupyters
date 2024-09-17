@@ -1,4 +1,4 @@
-# 🔰 NumPy Library
+# 🔰 Pandas Library
 
 🔸 In this repository I uploaded jupyter files about **Pandas** library and its main functions.
 
